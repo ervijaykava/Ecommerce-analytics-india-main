@@ -1,0 +1,9 @@
+segment,customers,avg_recency,avg_frequency,avg_monetary,total_revenue
+Champions,304,84.1,4.0,8528.7,2592724.3
+Potential Loyalists,260,266.8,3.2,6415.8,1668114.9
+At Risk (High Value),181,470.3,3.5,7830.0,1417223.6
+Hibernating,362,497.9,1.8,3723.0,1347730.1
+Loyal Customers,264,91.1,2.3,3583.2,945975.5
+New Customers,275,86.2,1.0,1852.8,509530.6
+Lost,292,515.5,1.0,1181.7,345047.9
+Need Attention,159,266.8,1.0,1736.8,276158.7
